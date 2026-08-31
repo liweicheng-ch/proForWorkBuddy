@@ -1,1 +1,0 @@
-f=open(r'E:\code\myAiPro\kidForWorkBuddy\appForCodex\app\src\main\java\com\wonderbrain\kidforworkbuddy\ui\screens\GameScreen.kt','w',encoding='utf-8') 

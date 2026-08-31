@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 儿童动漫风糖果色 -->
+    <color name="bg_cream">#FFF7E8</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="ink">#3A2E2A</color>
+    <color name="ink_light">#8C7B76</color>
+
+    <color name="orange_main">#FF9A3D</color>
+    <color name="orange_light">#FFE3B3</color>
+    <color name="sky_main">#4FC3F7</color>
+    <color name="sky_light">#C9EDFF</color>
+    <color name="green_main">#66BB6A</color>
+    <color name="green_light">#D2F0D3</color>
+    <color name="pink_main">#FF8A9B</color>
+    <color name="pink_light">#FFDDE2</color>
+    <color name="purple_main">#AB8CE0</color>
+    <color name="purple_light">#E7DEFA</color>
+    <color name="yellow_main">#FFD166</color>
+    <color name="yellow_light">#FFF3D6</color>
+    <color name="red_soft">#FF6B6B</color>
+
+    <color name="tile_stroke">#F0E0D0</color>
+    <color name="white">#FFFFFF</color>
+</resources>

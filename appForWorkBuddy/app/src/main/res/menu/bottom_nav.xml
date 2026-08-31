@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/tab_home" />
+    <item
+        android:id="@+id/tab_learn"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/tab_learn" />
+    <item
+        android:id="@+id/tab_reading"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/tab_reading" />
+    <item
+        android:id="@+id/tab_me"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/tab_me" />
+</menu>

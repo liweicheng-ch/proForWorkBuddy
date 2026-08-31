@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.brainisland.kid"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:5:5-34:19
+12        android:allowBackup="true"
+12-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.6.0] C:\Users\li\.gradle\caches\transforms-3\7ed0552540b79876b841a7fdb382ae2f\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:7:9-45
+16        android:label="@string/app_name"
+16-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:8:9-41
+17        android:supportsRtl="true"
+17-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:9:9-35
+18        android:theme="@style/Theme.BrainIsland" >
+18-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:10:9-49
+19        <activity
+19-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:12:9-20:20
+20            android:name="com.brainisland.kid.MainActivity"
+20-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:13:13-41
+21            android:screenOrientation="portrait"
+21-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:14:13-49
+22            android:windowSoftInputMode="adjustResize" >
+22-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:15:13-55
+23            <intent-filter>
+23-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:16:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:17:17-69
+24-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:17:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:18:17-77
+26-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:22:9-25:58
+30            android:name="com.brainisland.kid.ui.AbilityActivity"
+30-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:23:13-47
+31            android:parentActivityName="com.brainisland.kid.MainActivity"
+31-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:25:13-55
+32            android:screenOrientation="portrait" />
+32-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:24:13-49
+33        <activity
+33-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:27:9-29:52
+34            android:name="com.brainisland.kid.game.GameActivity"
+34-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:28:13-46
+35            android:screenOrientation="portrait" />
+35-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:29:13-49
+36        <activity
+36-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:31:9-33:52
+37            android:name="com.brainisland.kid.ui.ParentActivity"
+37-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:32:13-46
+38            android:screenOrientation="portrait" />
+38-->E:\code\myAiPro\kidForWorkBuddy\appForWorkBuddy\app\src\main\AndroidManifest.xml:33:13-49
+39    </application>
+40
+41</manifest>

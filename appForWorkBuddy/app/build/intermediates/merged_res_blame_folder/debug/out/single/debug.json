@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\code\\myAiPro\\kidForWorkBuddy\\appForWorkBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.xml.flat",
+        "source": "E:\\code\\myAiPro\\kidForWorkBuddy\\appForWorkBuddy\\app\\src\\main\\res\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\code\\myAiPro\\kidForWorkBuddy\\appForWorkBuddy\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav.xml.flat",
+        "source": "E:\\code\\myAiPro\\kidForWorkBuddy\\appForWorkBuddy\\app\\src\\main\\res\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "E:\\code\\myAiPro\\kidForWorkBuddy\\appForWorkBuddy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\code\\myAiPro\\kidForWorkBuddy\\appForWorkBuddy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\code\\myAiPro\\kidForWorkBuddy\\appForWorkBuddy\\app\\build\\intermediates\\res\\merged\\debug\\color_nav_item.xml.flat",
+        "source": "E:\\code\\myAiPro\\kidForWorkBuddy\\appForWorkBuddy\\app\\src\\main\\res\\color\\nav_item.xml"
+    }
+]
