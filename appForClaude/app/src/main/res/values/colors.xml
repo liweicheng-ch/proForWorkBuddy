@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 - 参照 HTML 原型 -->
+    <color name="sun">#FFB703</color>
+    <color name="sun_dark">#FB8500</color>
+    <color name="sky">#4CC9F0</color>
+    <color name="sky_light">#BDE0FE</color>
+    <color name="grass">#80ED99</color>
+    <color name="grass_dark">#57CC99</color>
+    <color name="pink">#FF70A6</color>
+    <color name="pink_dark">#FF477E</color>
+    <color name="grape">#9B5DE5</color>
+    <color name="grape_light">#C8A2FF</color>
+    <color name="cream">#FFF9EC</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="ink">#4A3B2A</color>
+    <color name="ink_light">#8A7B66</color>
+    <color name="gold">#FFD166</color>
+
+    <!-- 能力渐变色 -->
+    <color name="attention_start">#FF9E5E</color>
+    <color name="attention_end">#FF6B35</color>
+    <color name="attention_level">#FF8C42</color>
+
+    <color name="memory_start">#7FD6FF</color>
+    <color name="memory_end">#3AA0F5</color>
+    <color name="memory_level">#3AA0F5</color>
+
+    <color name="logic_start">#C9A2FF</color>
+    <color name="logic_end">#8A4FE8</color>
+    <color name="logic_level">#8A4FE8</color>
+
+    <color name="reading_start">#7DE8A8</color>
+    <color name="reading_end">#38C172</color>
+    <color name="reading_level">#38C172</color>
+
+    <color name="observation_start">#FFD166</color>
+    <color name="observation_end">#F59E0B</color>
+    <color name="observation_level">#FFB703</color>
+
+    <color name="math_start">#FF70A6</color>
+    <color name="math_end">#FF477E</color>
+    <color name="math_level">#FF5C8A</color>
+
+    <color name="spatial_start">#9B5DE5</color>
+    <color name="spatial_end">#7B3FE4</color>
+    <color name="spatial_level">#8A4FE8</color>
+
+    <color name="reaction_start">#4CC9F0</color>
+    <color name="reaction_end">#3AA0F5</color>
+    <color name="reaction_level">#3AA0F5</color>
+
+    <!-- 状态色 -->
+    <color name="correct_bg">#D9FBE3</color>
+    <color name="correct_border">#80ED99</color>
+    <color name="wrong_bg">#FFE3E8</color>
+    <color name="wrong_border">#FF9EC7</color>
+    <color name="dim_bg">#F2E7CF</color>
+
+    <!-- 奖励色 -->
+    <color name="reward_gold_start">#FFD166</color>
+    <color name="reward_gold_end">#F59E0B</color>
+    <color name="reward_pink_start">#FF9EC7</color>
+    <color name="reward_pink_end">#FF5C8A</color>
+    <color name="reward_grape_start">#C9A2FF</color>
+    <color name="reward_grape_end">#7B3FE4</color>
+
+    <!-- 透明色 -->
+    <color name="overlay_bg">#753A2A1A</color>
+    <color name="shadow_6dp">#29000000</color>
+    <color name="shadow_4dp">#1F000000</color>
+
+    <!-- 背景渐变 -->
+    <color name="home_sky_start">#8ED8FF</color>
+    <color name="home_sky_mid">#C9F0FF</color>
+    <color name="home_sky_end">#DFFBFF</color>
+    <color name="home_sun_gradient_start">#7FD8FF</color>
+    <color name="home_sun_gradient_end">#C9F0FF</color>
+
+    <!-- 游戏页背景 -->
+    <color name="game_bg_start">#BFE9FF</color>
+    <color name="game_bg_end">#E8F9FF</color>
+
+    <!-- 家长中心背景 -->
+    <color name="parent_bg_start">#EAF4FF</color>
+    <color name="parent_bg_end">#F6FBFF</color>
+    <color name="parent_hero_start">#4A90D9</color>
+    <color name="parent_hero_end">#3568B8</color>
+
+    <!-- 底部导航 -->
+    <color name="nav_bg">#F5FFFFFF</color>
+    <color name="nav_active">#FB8500</color>
+    <color name="nav_inactive">#8A7B66</color>
+
+    <!-- 对话框/卡片边框 -->
+    <color name="card_border">#FFF3D6</color>
+    <color name="card_shadow">#7A5E32</color>
+
+    <!-- 文字 -->
+    <color name="text_primary">#4A3B2A</color>
+    <color name="text_secondary">#8A7B66</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_gold">#8A5A00</color>
+    <color name="text_on_green">#2C6B4F</color>
+    <color name="text_on_pink">#E75480</color>
+
+    <!-- 阶段色 -->
+    <color name="level_A">#FF9E5E</color>
+    <color name="level_B">#4CC9F0</color>
+    <color name="level_C">#9B5DE5</color>
+    <color name="level_D">#FF70A6</color>
+
+    <!-- 主题筛选芯片 -->
+    <color name="chip_bg">#FFFFFF</color>
+    <color name="chip_border">#FFE9B8</color>
+    <color name="chip_selected_bg_start">#FFE28A</color>
+    <color name="chip_selected_bg_end">#FFC94D</color>
+    <color name="chip_selected_border">#F5B800</color>
+
+    <!-- 进度条背景 -->
+    <color name="progress_bg">#F2E7CF</color>
+    <color name="progress_fill_start">#FFC94D</color>
+    <color name="progress_fill_end">#FB8500</color>
+
+    <!-- Toast -->
+    <color name="toast_bg">#FFFFFF</color>
+    <color name="toast_border">#FFE9B8</color>
+    <color name="toast_shadow">#33000000</color>
+</resources>

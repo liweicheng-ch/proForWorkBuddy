@@ -1,0 +1,2 @@
+E:\code\myAiPro\kidForWorkBuddy\appForCluade\app\src\main\java\com\brainisland\kid\MainActivityNoCompose.kt
+E:\code\myAiPro\kidForWorkBuddy\appForCluade\app\src\main\java\com\brainisland\kid\MainActivity.kt

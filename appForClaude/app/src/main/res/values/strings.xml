@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">奇妙脑力岛</string>
+
+    <!-- 首页 -->
+    <string name="home_greeting_morning">早上好，%s！</string>
+    <string name="home_greeting_afternoon">下午好，%s！</string>
+    <string name="home_greeting_evening">晚上好，%s！</string>
+    <string name="home_adventure_days">冒险 %d 天 · 快乐满满</string>
+    <string name="home_today_adventure">今日冒险任务</string>
+    <string name="home_adventure_go">去冒险</string>
+    <string name="home_island_world">岛屿世界</string>
+    <string name="home_daily_task">每日脑力任务</string>
+    <string name="home_task_go">去完成</string>
+    <string name="home_reward_shop">星星商店</string>
+    <string name="home_my_badges">我的徽章</string>
+    <string name="home_reading_center">阅读中心</string>
+
+    <!-- 学习中心 -->
+    <string name="learn_title">学习中心</string>
+    <string name="learn_subtitle">8 大本领 · 12 精品 + 20 经典 · %d 岁自动匹配</string>
+    <string name="learn_recommend_plan">今日推荐计划</string>
+    <string name="learn_recommend_detail">已学 %d 分钟 · 建议 20 分钟</string>
+
+    <!-- 能力 -->
+    <string name="ability_attention">专注力</string>
+    <string name="ability_memory">记忆力</string>
+    <string name="ability_observation">观察力</string>
+    <string name="ability_logic">逻辑力</string>
+    <string name="ability_math">数理</string>
+    <string name="ability_spatial">空间</string>
+    <string name="ability_reaction">反应</string>
+    <string name="ability_reading">阅读</string>
+
+    <string name="ability_attention_desc">寻找、追踪、排除干扰</string>
+    <string name="ability_memory_desc">配对、序列、图片、位置、故事</string>
+    <string name="ability_observation_desc">找不同、场景侦探、视觉搜索</string>
+    <string name="ability_logic_desc">分类、排序、模式、图形、条件</string>
+    <string name="ability_math_desc">数数、比大小、简单加减</string>
+    <string name="ability_spatial_desc">旋转、迷宫、拼图、透视</string>
+    <string name="ability_reaction_desc">听声点击、快速分类、抑制控制</string>
+    <string name="ability_reading_desc">听故事、看图理解、推理问答</string>
+
+    <!-- 阅读中心 -->
+    <string name="reading_title">故事探险</string>
+    <string name="reading_subtitle">听 · 看 · 读 · 玩 · 推 综合探险</string>
+    <string name="reading_random_story">随机读一篇</string>
+    <string name="reading_level_hint">当前 %d 岁 → Level %s</string>
+    <string name="reading_level_A">Level A (≤3岁)</string>
+    <string name="reading_level_B">Level B (4岁)</string>
+    <string name="reading_level_C">Level C (5岁)</string>
+    <string name="reading_level_D">Level D (6岁+)</string>
+    <string name="reading_engine_title">阅读理解六层引擎</string>
+    <string name="reading_theme_filter">主题筛选</string>
+    <string name="reading_article_list">文章列表</string>
+
+    <!-- 阅读六层 -->
+    <string name="reading_layer1">听故事</string>
+    <string name="reading_layer2">场景理解</string>
+    <string name="reading_layer3">顺序排序</string>
+    <string name="reading_layer4">寻找线索</string>
+    <string name="reading_layer5">心理推理</string>
+    <string name="reading_layer6">隐性推理</string>
+
+    <string name="reading_layer1_desc">TTS朗读+听后答题</string>
+    <string name="reading_layer2_desc">看图选正确场景</string>
+    <string name="reading_layer3_desc">按故事顺序点句子</string>
+    <string name="reading_layer4_desc">文中找关键词证据</string>
+    <string name="reading_layer5_desc">推断人物想法感受</string>
+    <string name="reading_layer6_desc">跨文本整合隐含信息</string>
+
+    <!-- 阅读主题 -->
+    <string name="theme_animals">动物</string>
+    <string name="theme_nature">自然</string>
+    <string name="theme_life">生活</string>
+    <string name="theme_fairy">童话</string>
+    <string name="theme_science">科普</string>
+    <string name="theme_emotion">情感</string>
+
+    <!-- 我的 -->
+    <string name="profile_title">我的小岛</string>
+    <string name="profile_subtitle">记录你的每一次成长</string>
+    <string name="profile_stars">星星</string>
+    <string name="profile_badges">徽章</string>
+    <string name="profile_streak">连续天数</string>
+    <string name="profile_badges_progress">%d / 12</string>
+    <string name="profile_badge_first_game">初次游戏</string>
+    <string name="profile_badge_5_levels">完成5关</string>
+    <string name="profile_badge_10_levels">完成10关</string>
+    <string name="profile_badge_3_days">连续3天</string>
+    <string name="profile_badge_7_days">连续7天</string>
+    <string name="profile_badge_focus_60">专注60分</string>
+    <string name="profile_badge_read_10">读完10本</string>
+    <string name="profile_badge_detective">侦探之星</string>
+    <string name="profile_badge_maze_king">迷宫之王</string>
+    <string name="profile_badge_20_levels">完成20关</string>
+    <string name="profile_badge_all_60">全能力60</string>
+    <string name="profile_badge_adventure_master">冒险大师</string>
+
+    <string name="profile_missions">冒险任务</string>
+    <string name="profile_reports">学习报告</string>
+    <string name="profile_shop">星星商店</string>
+    <string name="profile_eye_care">护眼提醒</string>
+    <string name="profile_parent_center">家长中心</string>
+    <string name="profile_parent_hint">长按 · 需要 4 位数字密码</string>
+
+    <!-- 游戏通用 -->
+    <string name="game_round">第 %d 关</string>
+    <string name="game_stars">%d</string>
+    <string name="game_difficulty_auto">难度自动调整中</string>
+    <string name="game_instruction_speak">语音播放指令</string>
+    <string name="game_pause">暂停</string>
+    <string name="game_exit">退出</string>
+    <string name="game_restart">再玩一次</string>
+    <string name="game_back_home">回首页</string>
+    <string name="game_continue">继续游戏</string>
+
+    <!-- 结果 -->
+    <string name="result_completed">完成啦！</string>
+    <string name="result_stars_earned">获得 <b>+%d</b> 颗星星</string>
+    <string name="result_badge_earned">获得新徽章「%s」</string>
+
+    <!-- 冒险任务 -->
+    <string name="mission_title">脑力冒险任务</string>
+    <string name="mission_subtitle">在一段剧情里连续闯关 · 每次都是新冒险</string>
+    <string name="mission_resume">继续冒险</string>
+    <string name="mission_start">开始冒险</string>
+    <string name="mission_complete">冒险完成！宝箱打开啦</string>
+    <string name="mission_treasure_stars">+ %d 颗星星</string>
+    <string name="mission_treasure_coins">+ %d 金币</string>
+    <string name="mission_treasure_gems">+ %d 宝石</string>
+
+    <!-- 家长中心 -->
+    <string name="parent_title">家长中心</string>
+    <string name="parent_subtitle">V3 · 数据洞察</string>
+    <string name="parent_today_study">今日学习</string>
+    <string name="parent_task_complete">完成任务</string>
+    <string name="parent_accuracy">正确率</string>
+    <string name="parent_ability_radar">能力雷达 (8 大维度)</string>
+    <string name="parent_reading_analysis">阅读能力剖析</string>
+    <string name="parent_today_records">今日学习记录</string>
+    <string name="parent_smart_analysis">智能分析 & 建议</string>
+    <string name="parent_settings">设置与安全</string>
+    <string name="parent_daily_limit">每日学习时间</string>
+    <string name="parent_session_limit">单次学习时间</string>
+    <string name="parent_sound_effects">游戏音效</string>
+    <string name="parent_bg_music">背景音乐</string>
+    <string name="parent_change_pin">修改家长密码</string>
+    <string name="parent_child_info">儿童信息</string>
+
+    <!-- PIN 验证 -->
+    <string name="pin_title">家长验证</string>
+    <string name="pin_subtitle">请输入 4 位数字密码（演示密码：1234）</string>
+    <string name="pin_hint">原型演示：直接按 1 → 2 → 3 → 4 → ✓ 进入家长中心</string>
+    <string name="pin_wrong">密码错误，请重试</string>
+
+    <!-- Toast 提示 -->
+    <string name="toast_sound_on">语音已开启</string>
+    <string name="toast_sound_off">语音已关闭</string>
+    <string name="toast_today_recommend">今日推荐：专注1个 + 记忆1个 + 观察1个 + 阅读1个，均衡发展</string>
+    <string name="toast_week_report">本周已学 %d 分钟 · 完成 %d 个游戏</string>
+    <string name="toast_eye_care">每天 20 分钟，休息提醒已开启</string>
+    <string name="toast_edit_profile">编辑资料（家长权限）</string>
+    <string name="toast_trend_7_days">查看 7 天趋势</string>
+    <string name="toast_reading_engine">阅读六层引擎 × 8 个细分维度</string>
+    <string name="toast_recent_30_days">查看最近 30 天</string>
+
+    <!-- 游戏特定指令 -->
+    <string name="inst_find_target">找到目标动物！</string>
+    <string name="inst_find_difference">找出不同的一个！</string>
+    <string name="inst_visual_track">小球在哪个杯子下？</string>
+    <string name="inst_eliminate_interference">只点指定类别！</string>
+    <string name="inst_auditory_attention">听声音，点对应动物！</string>
+    <string name="inst_card_flip">翻牌配对，找出相同！</string>
+    <string name="inst_seq_memory">记住亮起的顺序！</string>
+    <string name="inst_pic_memory">图片出现过吗？</string>
+    <string name="inst_pos_memory">记住位置，点格子！</string>
+    <string name="inst_story_memory">读文章，答一题！</string>
+    <string name="inst_categorize">把目标放入正确篮子！</string>
+    <string name="inst_order_by">按大小顺序点选！</string>
+    <string name="inst_pattern">补全序列！</string>
+    <string name="inst_shape_reason">图形序列补全！</string>
+    <string name="inst_conditional">比较条件推理！</string>
+    <string name="inst_story_quiz">读文答题！</string>
+    <string name="inst_story_listen">听故事答题！</string>
+    <string name="inst_story_sequence">按顺序点句子！</string>
+    <string name="inst_story_character">谁…？</string>
+    <string name="inst_story_cause">为什么…？</string>
+
+    <!-- 通用 -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="retry">重试</string>
+    <string name="next">下一关</string>
+    <string name="done">完成</string>
+    <string name="loading">加载中…</string>
+    <string name="error">出错了</string>
+    <string name="no_data">暂无数据</string>
+</resources>

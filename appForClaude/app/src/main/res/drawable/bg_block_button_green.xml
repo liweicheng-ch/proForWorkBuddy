@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/grass_dark" />
+            <corners android:radius="@dimen/btn_radius" />
+            <stroke android:width="3dp" android:color="@color/card_border" />
+        </shape>
+    </item>
+    <item>
+        <layer-list>
+            <item android:top="@dimen/btn_shadow_offset">
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/card_shadow" />
+                    <corners android:radius="@dimen/btn_radius" />
+                </shape>
+            </item>
+            <item android:bottom="@dimen/btn_shadow_offset">
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/grass" />
+                    <corners android:radius="@dimen/btn_radius" />
+                    <stroke android:width="3dp" android:color="@color/card_border" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>
